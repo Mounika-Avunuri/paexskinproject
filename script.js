@@ -81,3 +81,4 @@ function registration()
 		document.getElementById("t4").value="";
 		document.getElementById("t5").value="";
 	}
+
